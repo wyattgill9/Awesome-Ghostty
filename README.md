@@ -28,6 +28,8 @@ For a full list of features, visit the [features section](https://ghostty.org/do
 
 [Apprentice-Ghostty](https://github.com/ethanfrogers/apprentice-ghostty) - A Vim Apprentice clone for Ghostty terminal emulator
 
+[Ghosttty Base16 Converter](https://github.com/l0go/ghostty-base16-converter) - Convert from a base16 scheme to ghostty.
+
 ## Shaders
 One of the unique features of Ghostty is the ability to use custom shaders. This can be used for anything from crazy looks and effects to accessibility features.
 
