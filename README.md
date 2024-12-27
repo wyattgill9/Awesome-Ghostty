@@ -32,7 +32,7 @@ One of the unique features of Ghostty is the ability to use custom shaders. This
 [m-ahdal's Ghostty Shaders](https://github.com/m-ahdal/ghostty-shaders) - a collection of Ghostty shaders from m-ahdal
 
 ## Themes
-[Electron Highligher](https://github.com/electron-highlighter/ghostty)
+[Electron Highlighter](https://github.com/electron-highlighter/ghostty)
 
 [Catpuccin](https://github.com/catppuccin/ghostty) - Soothing pastel theme for Ghostty
 
