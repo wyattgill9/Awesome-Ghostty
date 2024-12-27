@@ -45,5 +45,4 @@ One of the unique features of Ghostty is the ability to use custom shaders. This
 [Vitesse Themes for Ghostty](https://github.com/hamlim/vitesse-ghostty-theme) - A set of themes for Ghostty based on the Vitesse Theme for VS Code, based on the iTerm2 themes
 
 
-###
-Notice - This page is not an official Ghostty page. It's just created by a fan, user, and a beta tester of the terminal.
+* This page is not an official Ghostty page. It's just created by a fan, user, and a beta tester of the terminal.
