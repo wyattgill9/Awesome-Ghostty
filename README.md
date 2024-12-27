@@ -30,6 +30,14 @@ For a full list of features, visit the [features section](https://ghostty.org/do
 
 [Ghosttty Base16 Converter](https://github.com/l0go/ghostty-base16-converter) - Convert from a base16 scheme to ghostty.
 
+[Tree-sitter Ghostty](https://github.com/bezhermoso/tree-sitter-ghostty) - Tree-sitter grammar for Ghostty configuration files
+
+[Ghostty Color Converter](https://github.com/almonk/ghostty-color-converter) - Convert colors to Ghostty
+
+
+## Toys
+[Ghostty animated command](https://github.com/lukeshere/ghostty-animation-command) - A command showing the 👻 spinning
+
 ## Shaders
 One of the unique features of Ghostty is the ability to use custom shaders. This can be used for anything from crazy looks and effects to accessibility features.
 
@@ -52,5 +60,8 @@ One of the unique features of Ghostty is the ability to use custom shaders. This
 
 [Everforest](https://github.com/jrswab/ghostty-everforest) - Everforest Theme for Ghostty
 
+[Dracula for Ghostty](https://github.com/MohamedElashri/ghostty-dracula) - a dark theme for Ghostty
+
+[Ghostty Base16 Eighties](https://github.com/troyanov/ghostty-base16-eighties) - Ghostty Base16 Eighties theme
 
 * This page is not an official Ghostty page. It's just created by a fan, user, and a beta tester of the terminal.
