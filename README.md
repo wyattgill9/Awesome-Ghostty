@@ -1,7 +1,7 @@
 # Awesome Ghostty
 
 ## About Ghostty
-[Ghostty](https://ghostty.org/) is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
+[Ghostty](https://ghostty.org/) is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. It is created and maintained by [https://github.com/mitchellh](Mitchell Hashimoto).
 
 Ghostty is a very feature-rich terminal.
 
@@ -16,12 +16,27 @@ For a full list of features, visit the [features section](https://ghostty.org/do
 ## Tools for Ghostty
 [Ghostty Config tool ](https://ghostty.zerebos.com/) - an unofficial tool for creating custom Ghostty configurations.
 
+[Ghostty Home Manager Module](https://github.com/clo4/ghostty-hm-module) - Home Manager module for Ghostty
+
+[Ghostty LSP](https://github.com/matthewmturner/ghostty-lsp) - An LSP providing hover definitions for each parameter in Ghostty's configuration
+
 [Ghostty Gost ](https://github.com/gambithunt/ghostty-ghost) - Cli tool to transfer terminal settings from Kitty and Alacritty to Ghostty terminal
+
+[GhosttyExtensions.jl](https://github.com/piechologist/GhosttyExtensions.jl) - A Julia package that supports some advanced features of Ghostty
 
 ## Shaders
 One of the unique features of Ghostty is the ability to use custom shaders. This can be used for anything from crazy looks and effects to accessibility features.
 
 [m-ahdal's Ghostty Shaders](https://github.com/m-ahdal/ghostty-shaders) - a collection of Ghostty shaders from m-ahdal
+
+## Themes
+[Electron Highligher](https://github.com/electron-highlighter/ghostty)
+
+[Catpuccin](https://github.com/catppuccin/ghostty) - Soothing pastel theme for Ghostty
+
+[Rosé Pine](https://github.com/rose-pine/ghostty) - Rosé Pine theme for Ghostty
+
+[Kitty themes for Ghostty](https://github.com/hroi/ghostty-themes) - itty themes converted to Ghostty themes
 
 ###
 Notice - This page is not an official Ghostty page. It's just created by a fan, user, and a beta tester of the terminal.
