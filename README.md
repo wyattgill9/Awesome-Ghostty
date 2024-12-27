@@ -42,7 +42,7 @@ One of the unique features of Ghostty is the ability to use custom shaders. This
 
 [tinted-ghostty](https://github.com/bezhermoso/tinted-ghostty) - A tinted theming template for Ghostty with Base16 themes
 
-[Vitesse Themes for Ghostty] - A set of themes for Ghostty based on the Vitesse Theme for VS Code, based on the iTerm2 themes
+[Vitesse Themes for Ghostty](https://github.com/hamlim/vitesse-ghostty-theme) - A set of themes for Ghostty based on the Vitesse Theme for VS Code, based on the iTerm2 themes
 
 
 ###
