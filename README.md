@@ -24,6 +24,8 @@ For a full list of features, visit the [features section](https://ghostty.org/do
 
 [GhosttyExtensions.jl](https://github.com/piechologist/GhosttyExtensions.jl) - A Julia package that supports some advanced features of Ghostty
 
+[osscz](https://github.com/kontza/osscz) - Command-line application to dynamically change Ghostty's terminal themes based on SSH connections
+
 ## Shaders
 One of the unique features of Ghostty is the ability to use custom shaders. This can be used for anything from crazy looks and effects to accessibility features.
 
@@ -36,7 +38,12 @@ One of the unique features of Ghostty is the ability to use custom shaders. This
 
 [Rosé Pine](https://github.com/rose-pine/ghostty) - Rosé Pine theme for Ghostty
 
-[Kitty themes for Ghostty](https://github.com/hroi/ghostty-themes) - itty themes converted to Ghostty themes
+[Kitty themes for Ghostty](https://github.com/hroi/ghostty-themes) - Kitty themes converted to Ghostty themes
+
+[tinted-ghostty](https://github.com/bezhermoso/tinted-ghostty) - A tinted theming template for Ghostty with Base16 themes
+
+[Vitesse Themes for Ghostty] - A set of themes for Ghostty based on the Vitesse Theme for VS Code, based on the iTerm2 themes
+
 
 ###
 Notice - This page is not an official Ghostty page. It's just created by a fan, user, and a beta tester of the terminal.
