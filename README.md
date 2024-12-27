@@ -15,7 +15,7 @@ For a full list of features, visit the [features section](https://ghostty.org/do
 
 ## Tools for Ghostty
 [Ghostty Config tool ](https://ghostty.zerebos.com/) - an unofficial tool for creating custom Ghostty configurations.
-[https://github.com/gambithunt/ghostty-ghost] - Cli tool to transfer terminal settings from Kitty and Alacritty to Ghostty terminal
+[Ghostty Gost ](https://github.com/gambithunt/ghostty-ghost) - Cli tool to transfer terminal settings from Kitty and Alacritty to Ghostty terminal
 
 ## Shaders
 One of the unique features of Ghostty is the ability to use custom shaders. This can be used for anything from crazy looks and effects to accessibility features.
