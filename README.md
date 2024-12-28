@@ -79,3 +79,14 @@ One of the unique features of Ghostty is the ability to use custom shaders. This
 [Ultima Terminal Scheme](https://github.com/egorlem/ultima.terminals-scheme/tree/main/ghostty) - Ultima scheme for Ghostty
 
 * This page is not an official Ghostty page. It's just created by a fan, user, and a beta tester of the terminal.
+
+Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+
+This work is licensed under a
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
