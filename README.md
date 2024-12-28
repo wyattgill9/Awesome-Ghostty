@@ -34,6 +34,10 @@ For a full list of features, visit the [features section](https://ghostty.org/do
 
 [Ghostty Color Converter](https://github.com/almonk/ghostty-color-converter) - Convert colors to Ghostty
 
+[Ghostsmith](https://github.com/vandorsx/ghostsmith) - Barebones CLI tool for saving custom generated Ghostty icons to file
+
+
+
 
 ## Toys
 [Ghostty animated command](https://github.com/lukeshere/ghostty-animation-command) - A command showing the 👻 spinning
@@ -65,5 +69,13 @@ One of the unique features of Ghostty is the ability to use custom shaders. This
 [Ghostty Base16 Eighties](https://github.com/troyanov/ghostty-base16-eighties) - Ghostty Base16 Eighties theme
 
 [Ghostty Color template to use with Pywal](https://gist.github.com/strlrd-29/c7dfed495d194fabc077956d7919c470)
+
+[GhosttyBase16](https://github.com/RGBCube/GhosttyBase16) - Base 16 template for Ghostty
+
+[Ghostty vercel theme](https://github.com/chungweileong94/ghostty-vercel-theme) - A theme inspired by Vercel
+
+[Night Owl](https://github.com/ssong/night-owl-ghostty-theme) - Night Owl Ghostty theme
+
+[Ultima Terminal Scheme](https://github.com/egorlem/ultima.terminals-scheme/tree/main/ghostty) - Ultima scheme for Ghostty
 
 * This page is not an official Ghostty page. It's just created by a fan, user, and a beta tester of the terminal.
