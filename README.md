@@ -64,4 +64,6 @@ One of the unique features of Ghostty is the ability to use custom shaders. This
 
 [Ghostty Base16 Eighties](https://github.com/troyanov/ghostty-base16-eighties) - Ghostty Base16 Eighties theme
 
+[Ghostty Color template to use with Pywal](https://gist.github.com/strlrd-29/c7dfed495d194fabc077956d7919c470)
+
 * This page is not an official Ghostty page. It's just created by a fan, user, and a beta tester of the terminal.
