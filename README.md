@@ -26,8 +26,8 @@ For a full list of features, visit the [features section](https://ghostty.org/do
 * [Ghostty Color Converter](https://github.com/almonk/ghostty-color-converter) - Convert colors to Ghostty
 * [Ghostsmith](https://github.com/vandorsx/ghostsmith) - Barebones CLI tool for saving custom generated Ghostty icons to file
 
-
-
+## Plugins
+* [ASDF Plugin](https://github.com/ilvez/asdf-ghostty) - ASDF plugin for Ghostty
 
 ## Toys
 * [Ghostty animated command](https://github.com/lukeshere/ghostty-animation-command) - A command showing the 👻 spinning
@@ -35,7 +35,9 @@ For a full list of features, visit the [features section](https://ghostty.org/do
 ## Shaders
 One of the unique features of Ghostty is the ability to use custom shaders. This can be used for anything from crazy looks and effects to accessibility features.
 
-* [m-ahdal's Ghostty Shaders](https://github.com/m-ahdal/ghostty-shaders) - a collection of Ghostty shaders from m-ahdal
+* [m-ahdal's Ghostty Shaders](https://github.com/m-ahdal/ghostty-shaders)
+* [Alex Sherwin's Ghostty shaders](https://github.com/alex-sherwin/my-ghostty-shaders)
+* [CRT Shader with Chromatic Aberration, Glow, Scanlines, and Dot Matrix](https://github.com/luiscarlospando/crt-shader-with-chromatic-aberration-glow-scanlines-dot-matrix) - Give your terminal an authentic CRT look
 
 ## Themes
 * [Electron Highlighter](https://github.com/electron-highlighter/ghostty)
@@ -53,6 +55,9 @@ One of the unique features of Ghostty is the ability to use custom shaders. This
 * [Ghostty vercel theme](https://github.com/chungweileong94/ghostty-vercel-theme) - A theme inspired by Vercel
 * [Night Owl](https://github.com/ssong/night-owl-ghostty-theme) - Night Owl Ghostty theme
 * [Ultima Terminal Scheme](https://github.com/egorlem/ultima.terminals-scheme/tree/main/ghostty) - Ultima scheme for Ghostty
+* [Monokai-Ghostty](https://github.com/Kirlovon/monokai-ghostty) - Monokai theme for Ghostty
+* [Noctics themes](https://github.com/EastSun5566/ghostty-noctis-themes) - Noctics themes for Ghostty
+* [Gruvbox Material Theme](https://github.com/dot-1q/gruvbox-material-ghostty) - Gruvbox Material theme for Ghostty
 
 
 ** This page is not an official Ghostty page. It's just created by a fan, user, and a beta tester of the terminal.
