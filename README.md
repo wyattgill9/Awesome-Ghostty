@@ -25,6 +25,7 @@ For a full list of features, visit the [features section](https://ghostty.org/do
 * [Tree-sitter Ghostty](https://github.com/bezhermoso/tree-sitter-ghostty) - Tree-sitter grammar for Ghostty configuration files
 * [Ghostty Color Converter](https://github.com/almonk/ghostty-color-converter) - Convert colors to Ghostty
 * [Ghostsmith](https://github.com/vandorsx/ghostsmith) - Barebones CLI tool for saving custom generated Ghostty icons to file
+* [Ghostty Wrapper for Gnome](https://github.com/lucas-yotsui/Ghostty-Wrapper-for-Gnome) - A script that allows for Ghostty to be used to launch terminal-based applications from Gnome.
 
 ## Plugins
 * [ASDF Plugin](https://github.com/ilvez/asdf-ghostty) - ASDF plugin for Ghostty
@@ -58,6 +59,7 @@ One of the unique features of Ghostty is the ability to use custom shaders. This
 * [Monokai-Ghostty](https://github.com/Kirlovon/monokai-ghostty) - Monokai theme for Ghostty
 * [Noctics themes](https://github.com/EastSun5566/ghostty-noctis-themes) - Noctics themes for Ghostty
 * [Gruvbox Material Theme](https://github.com/dot-1q/gruvbox-material-ghostty) - Gruvbox Material theme for Ghostty
+* [nostromo.ghostty](https://github.com/Nostromo-UI/nostromo.ghostty) - Ghostty terminal emulator theme based on the landing gui from Alien's Nostromo spacecraft
 
 
 ** This page is not an official Ghostty page. It's just created by a fan, user, and a beta tester of the terminal.
