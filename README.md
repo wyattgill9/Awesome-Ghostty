@@ -60,6 +60,8 @@ One of the unique features of Ghostty is the ability to use custom shaders. This
 * [Noctics themes](https://github.com/EastSun5566/ghostty-noctis-themes) - Noctics themes for Ghostty
 * [Gruvbox Material Theme](https://github.com/dot-1q/gruvbox-material-ghostty) - Gruvbox Material theme for Ghostty
 * [nostromo.ghostty](https://github.com/Nostromo-UI/nostromo.ghostty) - Ghostty terminal emulator theme based on the landing gui from Alien's Nostromo spacecraft
+* [Poimandres](https://github.com/lorrehuggan/ghostty_poimandres_theme) - A dark, minimalistic terminal theme designed specifically for Ghostty.
+* [Eldritch](https://github.com/eldritch-theme/ghostty) - A community-driven dark theme inspired by Lovecraftian horror.
 
 
 ** This page is not an official Ghostty page. It's just created by a fan, user, and a beta tester of the terminal.
