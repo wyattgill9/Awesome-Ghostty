@@ -26,6 +26,7 @@ For a full list of features, visit the [features section](https://ghostty.org/do
 * [Ghostty Color Converter](https://github.com/almonk/ghostty-color-converter) - Convert colors to Ghostty
 * [Ghostsmith](https://github.com/vandorsx/ghostsmith) - Barebones CLI tool for saving custom generated Ghostty icons to file
 * [Ghostty Wrapper for Gnome](https://github.com/lucas-yotsui/Ghostty-Wrapper-for-Gnome) - A script that allows for Ghostty to be used to launch terminal-based applications from Gnome.
+* [Ghostty.nvim](https://github.com/isak102/ghostty.nvim) - A neovim plugin used to automatically validate your Ghostty configuration on save
 
 ## Plugins
 * [ASDF Plugin](https://github.com/ilvez/asdf-ghostty) - ASDF plugin for Ghostty
