@@ -11,7 +11,11 @@ Features for end-users are things like multi-window, tabs, splits, ligatures, au
 
 Features for terminal application developers are things like the Kitty graphics protocol, Kitty keyboard protocol, synchronized rendering, light/dark mode notifications, etc. These features allow terminal applications to do more than they could in other terminal emulators. While these features are not directly used by end-users, end-users benefit from them because terminal applications they use every day can do more.
 
-For a full list of features, visit the [features section](https://ghostty.org/docs/features) in the Ghostty documentation.
+## Resources
+
+* For a full list of features, visit the [features section](https://ghostty.org/docs/features) in the Ghostty documentation.
+* [Ghostty.org](https://ghostty.org)
+* [Ghostty.town](https://ghostty.town) - Share your ghostty terminal configs and find new ideas from others.
 
 ## Tools for Ghostty
 * [Ghostty Config tool ](https://ghostty.zerebos.com/) - an unofficial tool for creating custom Ghostty configurations.
