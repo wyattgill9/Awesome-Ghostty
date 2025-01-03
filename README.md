@@ -31,6 +31,10 @@ Features for terminal application developers are things like the Kitty graphics 
 * [Ghostsmith](https://github.com/vandorsx/ghostsmith) - Barebones CLI tool for saving custom generated Ghostty icons to file
 * [Ghostty Wrapper for Gnome](https://github.com/lucas-yotsui/Ghostty-Wrapper-for-Gnome) - A script that allows for Ghostty to be used to launch terminal-based applications from Gnome.
 * [Ghostty.nvim](https://github.com/isak102/ghostty.nvim) - A neovim plugin used to automatically validate your Ghostty configuration on save
+* [alfred-ghostty-script](https://github.com/zeitlings/alfred-ghostty-script) - AppleScript for Ghostty Alfred integration
+* [alacritty2ghostty](https://github.com/AlphaTechnolog/alacritty2ghostty) - Converts alacritty themes to ghostty themes
+* [ghostty-ls](https://github.com/MKindberg/ghostty-ls) - A language server for working with the ghostty config
+* [vscode-reveal-in-ghostty](https://github.com/sapegin/vscode-reveal-in-ghostty) - Visual Studio extension to reveal the current project or folder in Ghostty
 
 ## Plugins
 * [ASDF Plugin](https://github.com/ilvez/asdf-ghostty) - ASDF plugin for Ghostty
@@ -38,6 +42,7 @@ Features for terminal application developers are things like the Kitty graphics 
 ## Toys
 * [Ghostty animated command](https://github.com/lukeshere/ghostty-animation-command) - A command showing the 👻 spinning
 * [Frames for the above command](https://github.com/Ayomided/go-ghostty/tree/main/home/animation_frames)
+* [Ghostty-Anim-Terminal](https://github.com/Feror-BotMaker/Ghostty-Anim-Terminal) - Ghostty's homepage animation in the Ghostty terminal (or any terminal)
 
 ## Shaders
 One of the unique features of Ghostty is the ability to use custom shaders. This can be used for anything from crazy looks and effects to accessibility features.
@@ -69,7 +74,13 @@ One of the unique features of Ghostty is the ability to use custom shaders. This
 * [Poimandres](https://github.com/lorrehuggan/ghostty_poimandres_theme) - A dark, minimalistic terminal theme designed specifically for Ghostty.
 * [Eldritch](https://github.com/eldritch-theme/ghostty) - A community-driven dark theme inspired by Lovecraftian horror.
 * [Bamboo.nvim](https://github.com/ribru17/bamboo.nvim/tree/master/extras/ghostty) - Bamboo.nvim theme for Ghostty.
+* [Modus-themes and ef-themes for Ghostty](https://github.com/anhsirk0/ghostty-themes)
+* [Arcarium-ghostty-theme](https://github.com/daniellmiranda/arcarium-ghostty-theme) - The Arcarium Ghostty theme
+* [Posterpole](https://github.com/posterpole/ghostty) - Port of the Posterpole neovim theme to the Ghostty terminal
+* [HardHacker Theme](https://github.com/stevebosworth/hardhacker-ghostty) - HardHacker theme for the Ghostty terminal
 
+## Other
+* [Ghostty App Icon](https://github.com/lukejanicke/ghostty-app-icon) - An unofficial Ghostty app icon for macOS, based on the SVG logo from the Ghostty website
 
 ** This page is not an official Ghostty page. It's just created by a fan, user, and a beta tester of the terminal.
 
