@@ -35,7 +35,7 @@ Features for terminal application developers are things like the Kitty graphics 
 * [alacritty2ghostty](https://github.com/AlphaTechnolog/alacritty2ghostty) - Converts alacritty themes to ghostty themes
 * [ghostty-ls](https://github.com/MKindberg/ghostty-ls) - A language server for working with the ghostty config
 * [vscode-reveal-in-ghostty](https://github.com/sapegin/vscode-reveal-in-ghostty) - Visual Studio extension to reveal the current project or folder in Ghostty
-* [PimMyRice module for Ghostty](https://github.com/pimpmyrice-modules/ghostty)
+* [PimpMyRice module for Ghostty](https://github.com/pimpmyrice-modules/ghostty)
 
 ## Plugins
 * [ASDF Plugin](https://github.com/ilvez/asdf-ghostty) - ASDF plugin for Ghostty
