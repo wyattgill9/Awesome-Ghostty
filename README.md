@@ -1,5 +1,16 @@
 # Awesome Ghostty
 
+## Table of Contents
+* [About Ghostty](#about-ghostty)
+* [Packages](#packages)
+* [Resources](#resources)
+* [Tools for Ghostty](#tools-for-ghostty)
+* [Plugins](#plugins)
+* [Toys](#toys)
+* [Shaders](#shaders)
+* [Themes](#themes)
+* [Other](#other)
+
 ## About Ghostty
 [Ghostty](https://ghostty.org/) is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. It is created and maintained by [Mitchell Hashimoto](https://github.com/mitchellh).
 
