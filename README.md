@@ -110,6 +110,12 @@ One of the unique features of Ghostty is the ability to use custom shaders. This
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
+## Financial Support
+
+You can support me as well as some of the developers financially at the following:
+* Fearless Geek Media - Awesome Ghostty -- [Kofi](https://ko-fi.com/fearlessgeekmedia) | [Fearless Geek Shop on Spring](https://fearlessgeekmedia.creator-spring.com/)
+* dobicinaitis - snap package -- [Sponsor on Github](https://github.com/sponsors/dobicinaitis)
+
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
 
