@@ -114,8 +114,9 @@ Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 ## Financial Support
 
 You can support me as well as some of the developers financially at the following:
-* Fearless Geek Media - Awesome Ghostty -- [Kofi](https://ko-fi.com/fearlessgeekmedia) | [Fearless Geek Shop on Spring](https://fearlessgeekmedia.creator-spring.com/)
+* Fearless Geek Media - Awesome Ghostty -- [Ko-fi](https://ko-fi.com/fearlessgeekmedia) | [Fearless Geek Shop on Spring](https://fearlessgeekmedia.creator-spring.com/) | [Sponsor Fearless Geek Media](https://github.com/sponsors/fearlessgeekmedia)
 * dobicinaitis - snap package -- [Sponsor on Github](https://github.com/sponsors/dobicinaitis)
+* Zerobos -- Ghostty Configurator -- [Sponsor on Github](https://github.com/sponsors/zerebos)
 
 This list will be updated as commits come in or I find financial support links for the above projects. At this time, I'm not aware of a way to support Mitchell Hashimato, the developer of Ghostty. 
 
