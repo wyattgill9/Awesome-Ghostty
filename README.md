@@ -114,7 +114,7 @@ Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 ## Financial Support
 
 You can support me as well as some of the developers financially at the following:
-* Fearless Geek Media - Awesome Ghostty -- [Ko-fi](https://ko-fi.com/fearlessgeekmedia) | [Fearless Geek Shop on Spring](https://fearlessgeekmedia.creator-spring.com/) | [Sponsor on Github](https://github.com/sponsors/fearlessgeekmedia)
+* Fearless Geek Media - Awesome Ghostty and Fearless Geek Shaders for Ghostty -- [Ko-fi](https://ko-fi.com/fearlessgeekmedia) | [Fearless Geek Shop on Spring](https://fearlessgeekmedia.creator-spring.com/) | [Sponsor on Github](https://github.com/sponsors/fearlessgeekmedia)
 * dobicinaitis - snap package -- [Sponsor on Github](https://github.com/sponsors/dobicinaitis)
 * Zerobos -- Ghostty Configurator -- [Sponsor on Github](https://github.com/sponsors/zerebos)
 
