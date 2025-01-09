@@ -10,6 +10,7 @@
 * [Shaders](#shaders)
 * [Themes](#themes)
 * [Other](#other)
+* [Financial Support](#financial-support)
 
 ## About Ghostty
 [Ghostty](https://ghostty.org/) is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. It is created and maintained by [Mitchell Hashimoto](https://github.com/mitchellh).
@@ -115,6 +116,8 @@ Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 You can support me as well as some of the developers financially at the following:
 * Fearless Geek Media - Awesome Ghostty -- [Kofi](https://ko-fi.com/fearlessgeekmedia) | [Fearless Geek Shop on Spring](https://fearlessgeekmedia.creator-spring.com/)
 * dobicinaitis - snap package -- [Sponsor on Github](https://github.com/sponsors/dobicinaitis)
+
+This list will be updated as commits come in or I find financial support links for the above projects. At this time, I'm not aware of a way to support Mitchell Hashimato, the developer of Ghostty. 
 
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
