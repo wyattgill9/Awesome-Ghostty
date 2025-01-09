@@ -11,6 +11,13 @@ Features for end-users are things like multi-window, tabs, splits, ligatures, au
 
 Features for terminal application developers are things like the Kitty graphics protocol, Kitty keyboard protocol, synchronized rendering, light/dark mode notifications, etc. These features allow terminal applications to do more than they could in other terminal emulators. While these features are not directly used by end-users, end-users benefit from them because terminal applications they use every day can do more.
 
+## Packages
+* [Snap](https://github.com/dobicinaitis/ghostty-snap)
+* [Appimage](https://github.com/psadi/ghostty-appimage)
+* [Nix-Darwin](https://github.com/kbwhodat/ghostty-nix-darwin)
+* [Ubuntu/.deb](https://github.com/mkasberg/ghostty-ubuntu)
+* [Official Downloads](https://ghostty.org/download)
+  
 ## Resources
 
 * For a full list of features, visit the [features section](https://ghostty.org/docs/features) in the Ghostty documentation.
@@ -36,6 +43,8 @@ Features for terminal application developers are things like the Kitty graphics 
 * [ghostty-ls](https://github.com/MKindberg/ghostty-ls) - A language server for working with the ghostty config
 * [vscode-reveal-in-ghostty](https://github.com/sapegin/vscode-reveal-in-ghostty) - Visual Studio extension to reveal the current project or folder in Ghostty
 * [PimpMyRice module for Ghostty](https://github.com/pimpmyrice-modules/ghostty)
+* [iterm-to-ghostty-colors](https://github.com/richscott/iterm-to-ghostty-colors) - A utility to generate color specifications from an iterm2 color profile
+* [ghostt-automata](https://github.com/MauriceElliott/ghostt-automata) - Nier Automata color theme for Ghostty, Fastfetch, and Helix
 
 ## Plugins
 * [ASDF Plugin](https://github.com/ilvez/asdf-ghostty) - ASDF plugin for Ghostty
