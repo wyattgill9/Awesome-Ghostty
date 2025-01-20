@@ -111,9 +111,9 @@ Base24 themes for Ghostty
 * [Arcarium-ghostty-theme](https://github.com/daniellmiranda/arcarium-ghostty-theme) - The Arcarium Ghostty theme
 * [Posterpole](https://github.com/posterpole/ghostty) - Port of the Posterpole neovim theme to the Ghostty terminal
 * [HardHacker Theme](https://github.com/stevebosworth/hardhacker-ghostty) - HardHacker theme for the Ghostty terminal
+* [Prisma Theme](https://github.com/gniting/prisma-ghostty-theme) - Prisma inspired theme for Ghostty
 * [IBM 3290/IBM P70 plasma screen theme](https://github.com/alphaaleph/ghostty-ibm3290)
 * [walors](https://github.com/sudoshan/walors) - Pywal implementation for ghostty terminal
-* [Prisma Ghostty Theme](https://github.com/gniting/prisma-ghostty-theme)
 
 ## Other
 * [Ghostty App Icon](https://github.com/lukejanicke/ghostty-app-icon) - An unofficial Ghostty app icon for macOS, based on the SVG logo from the Ghostty website
