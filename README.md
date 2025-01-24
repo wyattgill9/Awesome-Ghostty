@@ -57,7 +57,8 @@ Features for terminal application developers are things like the Kitty graphics 
 * [PimpMyRice module for Ghostty](https://github.com/pimpmyrice-modules/ghostty)
 * [iterm-to-ghostty-colors](https://github.com/richscott/iterm-to-ghostty-colors) - A utility to generate color specifications from an iterm2 color profile
 * [ghostt-automata](https://github.com/MauriceElliott/ghostt-automata) - Nier Automata color theme for Ghostty, Fastfetch, and Helix
-* [ghostty-theme-sync.nvim](https://github.com/landerson02/ghostty-theme-sync.nvim) - A Neovim plugin that alloys  you to synchronize themes between Neovim and Ghostty for a consistent look between the two. 
+* [ghostty-theme-sync.nvim](https://github.com/landerson02/ghostty-theme-sync.nvim) - A Neovim plugin that alloys  you to synchronize themes between Neovim and Ghostty for a consistent look between the two.
+* [vscode-open-ghostty](https://github.com/im7daniel/vscode-open-ghostty) - Open with Ghostty from VS Code
 
 ## Plugins
 * [ASDF Plugin](https://github.com/ilvez/asdf-ghostty) - ASDF plugin for Ghostty
@@ -117,7 +118,7 @@ Base24 themes for Ghostty
 
 ## Other
 * [Ghostty App Icon](https://github.com/lukejanicke/ghostty-app-icon) - An unofficial Ghostty app icon for macOS, based on the SVG logo from the Ghostty website
-* [Unofficial Wayland Only Ghostty App runtime](https://github.com/gabydd/ghostty-wayland)
+* [Wraith]([https://github.com/gabydd/ghostty-wayland](https://github.com/gabydd/wraith) - Unofficial Wayland Only Ghostty App Runtime
 
 ** This page is not an official Ghostty page. It's just created by a fan, user, and a beta tester of the terminal.
 
