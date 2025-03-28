@@ -59,6 +59,7 @@ Features for terminal application developers are things like the Kitty graphics 
 * [ghostt-automata](https://github.com/MauriceElliott/ghostt-automata) - Nier Automata color theme for Ghostty, Fastfetch, and Helix
 * [ghostty-theme-sync.nvim](https://github.com/landerson02/ghostty-theme-sync.nvim) - A Neovim plugin that alloys  you to synchronize themes between Neovim and Ghostty for a consistent look between the two.
 * [vscode-open-ghostty](https://github.com/im7daniel/vscode-open-ghostty) - Open with Ghostty from VS Code
+* [ghosttify](https://github.com/natibek/ghosttify) - Convert gnome-terminal shortcuts to Ghostty keybindings.
 
 ## Plugins
 * [ASDF Plugin](https://github.com/ilvez/asdf-ghostty) - ASDF plugin for Ghostty
@@ -115,7 +116,8 @@ Base24 themes for Ghostty
 * [Prisma Theme](https://github.com/gniting/prisma-ghostty-theme) - Prisma inspired theme for Ghostty
 * [IBM 3290/IBM P70 plasma screen theme](https://github.com/alphaaleph/ghostty-ibm3290)
 * [walors](https://github.com/sudoshan/walors) - Pywal implementation for ghostty terminal
-* [unofficial tiniri theme](https://github.com/MohamedElashri/ghostty-tiniri) -  tiniri theme for Ghostty Terminal 
+* [unofficial tiniri theme](https://github.com/MohamedElashri/ghostty-tiniri) -  tiniri theme for Ghostty Terminal
+* [Vesper Theme](beingfranklin/vesper-ghostty) - Ghostty terminal theme inspired by the Vesper VSCode theme
 
 ## Other
 * [Ghostty App Icon](https://github.com/lukejanicke/ghostty-app-icon) - An unofficial Ghostty app icon for macOS, based on the SVG logo from the Ghostty website
