@@ -35,6 +35,7 @@ Features for terminal application developers are things like the Kitty graphics 
 * For a full list of features, visit the [features section](https://ghostty.org/docs/features) in the Ghostty documentation.
 * [Ghostty.org](https://ghostty.org)
 * [Ghostty.town](https://ghostty.town) - Share your ghostty terminal configs and find new ideas from others.
+* [Ghostty Cheatsheet](https://github.com/conlonj25/cheatsheet-ghostty) - Cheatsheet of Ghostty keyboard shortcuts.
 
 ## Tools for Ghostty
 * [Ghostty Config tool ](https://ghostty.zerebos.com/) - an unofficial tool for creating custom Ghostty configurations.
@@ -118,6 +119,8 @@ Base24 themes for Ghostty
 * [walors](https://github.com/sudoshan/walors) - Pywal implementation for ghostty terminal
 * [unofficial tiniri theme](https://github.com/MohamedElashri/ghostty-tiniri) -  tiniri theme for Ghostty Terminal
 * [Vesper Theme](beingfranklin/vesper-ghostty) - Ghostty terminal theme inspired by the Vesper VSCode theme
+* [Ghostty Black Atom Adapter](https://github.com/black-atom-industries/ghostty)
+* [E-Ink Theme](https://github.com/alexxGmZ/e-ink.ghostty)
 
 ## Other
 * [Ghostty App Icon](https://github.com/lukejanicke/ghostty-app-icon) - An unofficial Ghostty app icon for macOS, based on the SVG logo from the Ghostty website
