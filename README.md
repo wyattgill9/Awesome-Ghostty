@@ -124,7 +124,7 @@ Base24 themes for Ghostty
 
 ## Other
 * [Ghostty App Icon](https://github.com/lukejanicke/ghostty-app-icon) - An unofficial Ghostty app icon for macOS, based on the SVG logo from the Ghostty website
-* [Wraith]([https://github.com/gabydd/ghostty-wayland](https://github.com/gabydd/wraith) - Unofficial Wayland Only Ghostty App Runtime
+* [Wraith](https://github.com/gabydd/wraith) - Unofficial Wayland Only Ghostty App Runtime
 
 ** This page is not an official Ghostty page. It's just created by a fan, user, and a beta tester of the terminal.
 
