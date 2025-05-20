@@ -1,4 +1,4 @@
-**I am no longer maintaining this, as I am no longer active in the Ghostty community. If you are interested in maintaining this list, feel free to fork it.**
+**Maintained branch**
 
 # Awesome Ghostty
 
