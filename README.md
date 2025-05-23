@@ -23,7 +23,6 @@ For a full list of features, visit the [features section](https://ghostty.org/do
 
 ## Financial Support
 You can support the developers of these projects financially:
-* [dobicinaitis](https://github.com/sponsors/dobicinaitis) - snap package
 * [Fearless Geek Media](https://ko-fi.com/fearlessgeekmedia) - Awesome Ghostty and Fearless Geek Shaders ([Shop](https://fearlessgeekmedia.creator-spring.com/), [GitHub Sponsors](https://github.com/sponsors/fearlessgeekmedia))
 * [Zerebos](https://github.com/sponsors/zerebos) - Ghostty Configurator
 
