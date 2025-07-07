@@ -46,6 +46,7 @@ You can support the developers of these projects financially:
 * [Ghostty.town](https://ghostty.town) - Share and find Ghostty terminal configs
 
 ## Shaders
+* [Krone Corylus' Ghostty Shader Playground](https://github.com/KroneCorylus/ghostty-shader-playground)
 * [12jihan's Ghostty shaders](https://github.com/12jihan/ghostty_shaders)
 * [Alex Sherwin's Ghostty shaders](https://github.com/alex-sherwin/my-ghostty-shaders)
 * [CRT Shader with Chromatic Aberration, Glow, Scanlines, and Dot Matrix](https://github.com/luiscarlospando/crt-shader-with-chromatic-aberration-glow-scanlines-dot-matrix)
