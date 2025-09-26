@@ -125,7 +125,7 @@ You can support the developers of these projects financially:
 
 ---
 
-This list is not an official Ghostty page. It's created by fans, users, and beta testers of the terminal.
+This list is not an official Ghostty page. It's created by fans, and users.
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
