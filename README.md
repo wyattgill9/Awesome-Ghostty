@@ -1,5 +1,8 @@
 # Awesome Ghostty
 
+> [!TIP]
+> If you have something to add, open a PR and I’ll review + merge it.
+
 ## Table of Contents
 * [About Ghostty](#about-ghostty)
 * [Financial Support](#financial-support)
