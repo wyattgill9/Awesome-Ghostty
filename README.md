@@ -53,6 +53,7 @@ You can support the developers of these projects financially:
 * [erniee's Ghostty shaders](https://github.com/erniee/gshaders)
 * [Fearless Geek Shaders for Ghostty](https://github.com/fearlessgeekmedia/Fearless-Geek-Shaders-for-Ghostty)
 * [Ghostty-shaders from hackr-sh](https://github.com/hackr-sh/ghostty-shaders)
+* [hairglasses-studio Ghostty shaders](https://github.com/hairglasses-studio/dotfiles/tree/main/ghostty/shaders) - 150+ curated GLSL shaders with metadata, playlists, reusable shader libraries, and management tooling (cycle, benchmark, auto-rotate)
 
 ## Themes
 * [Another Dracula theme for Ghostty](https://github.com/dal-liu/ghostty-dracula)
