@@ -114,6 +114,7 @@ You can support the developers of these projects financially:
 * [GhosttyExtensions.jl](https://github.com/piechologist/GhosttyExtensions.jl) - Julia package for advanced Ghostty features
 * [Iterm-to-ghostty-colors](https://github.com/richscott/iterm-to-ghostty-colors) - Generate color specifications from iterm2 profiles
 * [Osscz](https://github.com/kontza/osscz) - Dynamic theme changes based on SSH connections
+* [Paletty](https://paletty.dev) - Web-based tool to generate, browse a gallery of, and preview color schemes with shader support
 * [PimpMyRice module for Ghostty](https://github.com/pimpmyrice-modules/ghostty)
 * [Vscode-open-ghostty](https://github.com/im7daniel/vscode-open-ghostty) - Open with Ghostty from VS Code
 * [Vscode-reveal-in-ghostty](https://github.com/sapegin/vscode-reveal-in-ghostty) - Reveal projects in Ghostty from VS Code
