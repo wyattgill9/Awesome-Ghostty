@@ -115,6 +115,7 @@ You can support the developers of these projects financially:
 * [Ghosttify](https://github.com/natibek/ghosttify) - Convert gnome-terminal shortcuts to Ghostty
 * [GhosttyExtensions.jl](https://github.com/piechologist/GhosttyExtensions.jl) - Julia package for advanced Ghostty features
 * [Iterm-to-ghostty-colors](https://github.com/richscott/iterm-to-ghostty-colors) - Generate color specifications from iterm2 profiles
+* [lmux](https://github.com/LiManshiang/lmux) - Native macOS workbench for running CodeBuddy Code and Claude Code agents side by side, built on libghostty, with per-session context meters, automatic conversation resume, and cross-Mac session sync.
 * [Osscz](https://github.com/kontza/osscz) - Dynamic theme changes based on SSH connections
 * [Paletty](https://paletty.dev) - Web-based tool to generate, browse a gallery of, and preview color schemes with shader support
 * [PimpMyRice module for Ghostty](https://github.com/pimpmyrice-modules/ghostty)
