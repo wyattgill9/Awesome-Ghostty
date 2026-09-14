@@ -99,6 +99,7 @@ You can support the developers of these projects financially:
 ## Tools
 * [Alacritty2ghostty](https://github.com/AlphaTechnolog/alacritty2ghostty) - Convert Alacritty themes to Ghostty
 * [Alfred-ghostty-script](https://github.com/zeitlings/alfred-ghostty-script) - AppleScript for Alfred integration
+* [Calyx](https://github.com/yuuichieguchi/Calyx) - Native macOS terminal built on libghostty for running and supervising coding agents in parallel, with an approval inbox and agent status sidebar.
 * [Factory Floor](https://factory-floor.com) - Developer workspace built on Ghostty's GPU-rendered terminal for managing parallel git worktrees with integrated Claude Code agents and dev servers.
 * [Ghostsmith](https://github.com/vandorsx/ghostsmith) - CLI tool for saving custom generated Ghostty icons
 * [Ghostty App Icon](https://github.com/lukejanicke/ghostty-app-icon) - Unofficial app icon for macOS
