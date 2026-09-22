@@ -119,6 +119,7 @@ You can support the developers of these projects financially:
 * [Osscz](https://github.com/kontza/osscz) - Dynamic theme changes based on SSH connections
 * [Paletty](https://paletty.dev) - Web-based tool to generate, browse a gallery of, and preview color schemes with shader support
 * [PimpMyRice module for Ghostty](https://github.com/pimpmyrice-modules/ghostty)
+* [SparkleBIOS](https://github.com/reactivepixels/sparklebios) - Retro POST screen on every new terminal tab that doubles as a real health check, and ships ten matching Ghostty themes
 * [Vscode-open-ghostty](https://github.com/im7daniel/vscode-open-ghostty) - Open with Ghostty from VS Code
 * [Vscode-reveal-in-ghostty](https://github.com/sapegin/vscode-reveal-in-ghostty) - Reveal projects in Ghostty from VS Code
 
