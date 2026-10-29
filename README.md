@@ -109,6 +109,7 @@ You can support the developers of these projects financially:
 * [Ghostty Home Manager Module](https://github.com/clo4/ghostty-hm-module)
 * [Ghostty LSP](https://github.com/matthewmturner/ghostty-lsp) - LSP providing hover definitions for configuration parameters
 * [Ghostty Wrapper for Gnome](https://github.com/lucas-yotsui/Ghostty-Wrapper-for-Gnome)
+* [ghostty-designer](https://github.com/reemus-dev/ghostty-designer) - Live-preview GUI for editing Ghostty config, themes, fonts and UI settings.
 * [Ghostty-ls](https://github.com/MKindberg/ghostty-ls) - Language server for Ghostty config
 * [Ghostty-theme-sync.nvim](https://github.com/landerson02/ghostty-theme-sync.nvim) - Sync themes between Neovim and Ghostty
 * [ghostty-shader-picker](https://github.com/alexbathome/ghostty-shader-picker) - A simple TUI picker for Ghostty custom shaders.
