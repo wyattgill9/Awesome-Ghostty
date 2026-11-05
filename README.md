@@ -119,6 +119,7 @@ You can support the developers of these projects financially:
 * [Iterm-to-ghostty-colors](https://github.com/richscott/iterm-to-ghostty-colors) - Generate color specifications from iterm2 profiles
 * [JustSessions](https://github.com/yangzichao/JustSessions) - Native macOS workspace to find, read, and resume coding-agent sessions, with an optional libghostty terminal renderer.
 * [lmux](https://github.com/LiManshiang/lmux) - Native macOS workbench for running CodeBuddy Code and Claude Code agents side by side, built on libghostty, with per-session context meters, automatic conversation resume, and cross-Mac session sync.
+* [lmux](https://github.com/sooftware/lmux) - Lightweight macOS terminal built on libghostty that reads your Ghostty config, with sidebar workspaces and agent status for Claude Code and Codex.
 * [Osscz](https://github.com/kontza/osscz) - Dynamic theme changes based on SSH connections
 * [Paletty](https://paletty.dev) - Web-based tool to generate, browse a gallery of, and preview color schemes with shader support
 * [PimpMyRice module for Ghostty](https://github.com/pimpmyrice-modules/ghostty)
