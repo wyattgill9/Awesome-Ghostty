@@ -126,6 +126,7 @@ You can support the developers of these projects financially:
 * [SparkleBIOS](https://github.com/reactivepixels/sparklebios) - Retro POST screen on every new terminal tab that doubles as a real health check, and ships ten matching Ghostty themes
 * [Vscode-open-ghostty](https://github.com/im7daniel/vscode-open-ghostty) - Open with Ghostty from VS Code
 * [Vscode-reveal-in-ghostty](https://github.com/sapegin/vscode-reveal-in-ghostty) - Reveal projects in Ghostty from VS Code
+* [vsux](https://github.com/shadowDragons/vsux) - Free, MIT-licensed native macOS workspace built with SwiftUI/AppKit and GhosttyKit, combining split terminals, file editing, Git tools, and live Markdown preview. Requires macOS 14+ on Apple Silicon.
 
 ## Toys
 * [Ghost](https://github.com/theMackabu/ghost) - Ghostty animation
