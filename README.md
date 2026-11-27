@@ -84,6 +84,7 @@ You can support the developers of these projects financially:
 * [Nightfox.nvim themes](https://github.com/EdenEast/nightfox.nvim/)
 * [Noctics themes](https://github.com/EastSun5566/ghostty-noctis-themes)
 * [Nostromo](https://github.com/Nostromo-UI/nostromo.ghostty)
+* [Phosglow](https://github.com/itigancov/phosglow) - Green phosphor CRT theme with an optional CRT shader
 * [Poimandres](https://github.com/lorrehuggan/ghostty_poimandres_theme)
 * [Posterpole](https://github.com/posterpole/ghostty)
 * [Prisma Theme](https://github.com/gniting/prisma-ghostty-theme)
